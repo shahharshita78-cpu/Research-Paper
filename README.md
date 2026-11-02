@@ -138,7 +138,7 @@ Research-Paper/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Research-Paper.git
+git clone https://github.com/shahharshita78-cpu/Research-Paper.git
 ```
 
 2. Navigate to the project directory:
